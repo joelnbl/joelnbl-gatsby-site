@@ -115,7 +115,7 @@ h4,
 h5,
 h6 {
   font-weight: var(--fontWeight-bold);
-  color: var(--color-heading);
+  color: var(--color-primary);
 }
 
 h1 {
@@ -306,6 +306,7 @@ a:focus {
 
 .blog-post header h1 {
   margin: var(--spacing-0) var(--spacing-0) var(--spacing-4) var(--spacing-0);
+  color: var(--text-color);
 }
 
 .blog-post header p {
