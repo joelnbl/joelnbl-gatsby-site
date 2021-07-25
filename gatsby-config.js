@@ -5,8 +5,8 @@ module.exports = {
       name: `Joel Bello`,
       summary: `I explain with words and code.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Personal blog`,
+    siteUrl: `https://joelnblblog.netlify.app/new-beginnings/`,
     social: {
       twitter: `joelnbl`,
     },
